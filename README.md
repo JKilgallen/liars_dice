@@ -19,8 +19,8 @@ Liar's Dice is a bluffing game in which players compete to be the last player wi
 - The last player remaining with dice wins the game.
 
   ## Key project steps
-  [ ] Research poker AI projects as the game space is similar and determine what are the most popular libraries.
-  [ ] Construct the game logic.
-  [ ] Implement a GUI so that humans can visualise the game space. 
-  [ ] Implement agents to play the game and train them.
-  [ ] Examine the performance of the most successful agents relative to human players. 
+ - [ ] Research poker AI projects as the game space is similar and determine what are the most popular libraries.
+ - [ ] Construct the game logic.
+ - [ ] Implement a GUI so that humans can visualise the game space. 
+ - [ ] Implement agents to play the game and train them.
+ - [ ] Examine the performance of the most successful agents relative to human players. 
